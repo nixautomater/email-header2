@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    custom_text_in_emails_from_header: "Email headers will be formatted like this: <pre>\"name %{this_setting}\" &lt;email_address@discourse.com&gt;</pre>"
